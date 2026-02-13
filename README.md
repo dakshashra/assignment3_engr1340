@@ -2,4 +2,4 @@
 
 Your name:
 
-Pineapples belong on pizzas: [Yes/No]
+Pineapples belong on pizzas:[Yes/No]
